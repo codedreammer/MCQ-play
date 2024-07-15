@@ -2,7 +2,7 @@
 questions = [
     "What is the capital of India?",
     "What is the full form of HTML?",
-    "who is your life after choosing ENGINEERING!?",
+    "How is your life after choosing ENGINEERING!?",
     "What is Happiness as an Engineer?"
 ]
 
