@@ -14,6 +14,9 @@ options = [
     ["a) Project completed", "b) Date with Crush", "c) Promotion", "d) Work from Home"]
 ]
 
+'''#price money 
+levels=[1000,2000,3000,5000,10000,20000,30000,50000,1000000]
+'''
 # List of correct answers
 correct_answers = ["c", "b", "b", "a"]
 
